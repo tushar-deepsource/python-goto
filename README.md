@@ -1,3 +1,10 @@
+> **Note**
+> This is a fork of the original to make it work on Python 3.8+.
+> Install it via:
+> ```
+> pip install git+https://github.com/tushar-deepsource/python-goto
+> ```
+
 # goto
 
 [![Build Status](https://travis-ci.org/snoack/python-goto.svg?branch=master)](https://travis-ci.org/snoack/python-goto)
